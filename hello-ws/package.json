@@ -1,0 +1,12 @@
+{
+	"name": "hello-WS",
+    "version": "1.0.0",
+    "description": "Hello Web Socket",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies":{
+    	"ws": "1.1.1"
+    }
+}
